@@ -19,6 +19,20 @@ Olha... isso não importa...
 Se você está lendo essa mensagem, considere o fim do mundo.
 
 de: HENRY M.`,type:"secret"},
+  "--recover unidade2":{message:`[RECUPERANDO O COMANDO "UNIDADE 2"...]
+
+Status: Encontrado!
+Recuperação: 100%
+IP: 146.255.74
+data de exclusão: 12/08/2022
+
+Conteúdo do  código:
+
+  "14/06/2004, Fundamos a unidade 02 da EAG! A unidade 2 foi fundada na intenção de trabalhar na area
+  cientifica e no estudo das anomalias espalhadas pelo mundo para evitar um futuro apocalipse de anomalias"`,type:"secret"},
+
+  "--recover peter":{message:`[IMPOSSIVEL RECUPERAR OS DADOS APAGADOS]`,type:"secret"},
+
   "perdão":{message:`[O QUE VOCÊ ESTÁ PROCURANDO AFINAL?]
 
 Eu... eu juro que não foi culpa minha, eu sei que não foi... então PORQUE ESSA CULPA ME PERSEGUE!?!?
@@ -101,6 +115,7 @@ nenhum pakage de update encontrado.
 ultima update feita em... 2026`,type:"secret"},
   "unidade1":{message:`a unidade 1 é e foi a primeira unidade montada por nós, agentes da EAG, Fundada em 2002.
 Lá estão localizado todos os arquivos e códigos do terminal enveolvendo a EAG até o ano de 2018`,type:"secret"},
+  "unidade2":{message:`[OS DADOS FORAM EXCLUIDOS]`,type:"secret"},
   "internet":{message:`[acessando internet da EAG...]
 IP da maquina: Indentificavel...
 IP da conexão: 143.255.76
