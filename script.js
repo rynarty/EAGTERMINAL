@@ -55,6 +55,13 @@ DESCONHECIDO!
 iniciando protocólo da maquina...
 INVALIDO!
 digite o código de 6 digitos...`,type:"secret"},
+  "agentes":{message:`[lista de agentes das relações publicas]
+Henry Michael
+Charlie Handerson
+Sofi cristhine
+Erick patman
+Jacob CasaGrand
+Peter Michael`,type:"secret"},
   "internet":{message:`[acessando internet da EAG...]
 IP da maquinha: Indentificavel...
 IP da conexão: 143.255.76
