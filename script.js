@@ -33,6 +33,9 @@ Conteúdo do  código:
 
   "--recover peter":{message:`[IMPOSSIVEL RECUPERAR OS DADOS APAGADOS]`,type:"secret"},
 
+ "--recover":{message:`insira o nome do arquivo após o comando`,type:"secret"},
+
+  
   "perdão":{message:`[O QUE VOCÊ ESTÁ PROCURANDO AFINAL?]
 
 Eu... eu juro que não foi culpa minha, eu sei que não foi... então PORQUE ESSA CULPA ME PERSEGUE!?!?
