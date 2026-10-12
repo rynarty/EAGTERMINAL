@@ -62,6 +62,8 @@ Sofi cristhine
 Erick patman
 Jacob CasaGrand
 Peter Michael`,type:"secret"},
+  "Unidade 1":{message:`a unidade 1 é e foi a primeira unidade montada por nós, agentes da EAG, Fundada em 2002.
+  Lá estão localizado todos os arquivos e códigos do terminal enveolvendo a EAG até o ano de 2018`,type:"secret"},
   "internet":{message:`[acessando internet da EAG...]
 IP da maquinha: Indentificavel...
 IP da conexão: 143.255.76
