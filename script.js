@@ -55,7 +55,7 @@ DESCONHECIDO!
 iniciando protocólo da maquina...
 INVALIDO!
 digite o código de 6 digitos...`,type:"secret"},
-  "agentes":{message:`[lista de agentes das relações publicas]
+  "agentesRP":{message:`[lista de agentes das relações publicas]
 Henry Michael
 Charlie Handerson
 Sofi cristhine
