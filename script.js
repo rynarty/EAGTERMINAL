@@ -138,6 +138,7 @@ usuario      - Mostra o usuário atual
 data         - Mostra a data atual
 tempo        - Mostra a hora atual
 sistema      - Informações do sistema
+--clear      - recuperar arquivos apagados no sistema
 `,
   usuario:()=> "Desconhecido",
   data:()=>new Date().toLocaleDateString("pt-BR"),
