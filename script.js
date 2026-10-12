@@ -30,7 +30,7 @@ RG: 14.337.6742.14
 IP loggado: 146.255.74
 Idade: 32
 Função: Relações pessoais da EAG
-Unidade: 1, EUA, NEW YORK, 244.155.663
+Unidade:1, EUA, NEW YORK, 244.155.663
 seu código administrativo é ######
 Da categoria ##`,type:"secret"},
   "perdão":{message:`[O QUE VOCÊ ESTÁ PROCURANDO AFINAL?]
