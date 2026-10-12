@@ -33,6 +33,16 @@ Função: Relações pessoais da EAG
 Unidade:1, EUA, NEW YORK, 244.155.663
 seu código administrativo é ######
 Da categoria ##`,type:"secret"},
+  "sofi":{message:`Sofi Cristhine. Principal supervisora das relações pessoais da unidade 1 da EAG.
+INFORMAÇÕES:
+Nivel admnistrativo: Grau inferior 2
+RG: 16.344.6552.60
+IP loggado: 146.255.74
+Idade: 26
+Função: Supervisora das Relações pessoais da EAG
+Unidade:1, EUA, NEW YORK, 244.155.663
+seu código administrativo é ######
+Da categoria ##`,type:"secret"},
   "perdão":{message:`[O QUE VOCÊ ESTÁ PROCURANDO AFINAL?]
 
 Eu... eu juro que não foi culpa minha, eu sei que não foi... então PORQUE ESSA CULPA ME PERSEGUE!?!?
@@ -47,6 +57,27 @@ Função: Relações pessoais da EAG
 Unidade: 1, EUA, NEW YORK, 244.155.663
 seu código administrativo é 12###7
 Da categoria ##`,type:"secret"},
+  "erick":{message:`Erick patman. Pesquisador das relações pessoais da unidade 1 e 2 da EAG.
+INFORMAÇÕES:
+Nivel admnistrativo: Grau inferior 1
+RG: 19.322.7852.20
+IP loggado: 146.255.74
+Idade: 29
+Função: Pesquisador das Relações pessoais da EAG
+Unidade:1, EUA, NEW YORK, 244.155.663
+seu código administrativo é ######
+Da categoria ##`,type:"secret"},
+  "jacob":{message:`Jacob CasaGrand. Cientista das relações pessoais da unidade 1 e 2 da EAG.
+INFORMAÇÕES:
+Nivel admnistrativo: Grau superior 3
+RG: 44.172.7654.22
+IP loggado: 146.255.74
+Idade: 26
+Função: Cientista das Relações pessoais da EAG
+Unidade:1, EUA, NEW YORK, 244.155.663
+seu código administrativo é ######
+Da categoria ##`,type:"secret"},
+"peter":{message:`[Registros excluidos!]`,type:"secret"},
   "eag":{message:`[Bem vindo de volta agente!!]
 checando Unidade de Experimento...
 DESCONHECIDA!
@@ -58,7 +89,7 @@ digite o código de 6 digitos...`,type:"secret"},
   "agentesrp":{message:`[lista de agentes das relações publicas]
 Henry Michael
 Charlie Handerson
-Sofi cristhine
+Sofi Cristhine
 Erick patman
 Jacob CasaGrand
 Peter Michael`,type:"secret"},
@@ -66,7 +97,7 @@ Peter Michael`,type:"secret"},
     
   [████████████████████] 100%
   
-nenhum pakage de update encontrado...
+nenhum pakage de update encontrado.
 ultima update feita em... 2026`,type:"secret"},
   "unidade1":{message:`a unidade 1 é e foi a primeira unidade montada por nós, agentes da EAG, Fundada em 2002.
 Lá estão localizado todos os arquivos e códigos do terminal enveolvendo a EAG até o ano de 2018`,type:"secret"},
