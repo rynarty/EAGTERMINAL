@@ -69,7 +69,7 @@ Peter Michael`,type:"secret"},
 nenhum pakage de update encontrado...
 ultima update feita em... 2026`,type:"secret"},
   "unidade1":{message:`a unidade 1 é e foi a primeira unidade montada por nós, agentes da EAG, Fundada em 2002.
-  Lá estão localizado todos os arquivos e códigos do terminal enveolvendo a EAG até o ano de 2018`,type:"secret"},
+Lá estão localizado todos os arquivos e códigos do terminal enveolvendo a EAG até o ano de 2018`,type:"secret"},
   "internet":{message:`[acessando internet da EAG...]
 IP da maquina: Indentificavel...
 IP da conexão: 143.255.76
