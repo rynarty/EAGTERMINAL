@@ -36,10 +36,12 @@ Conteúdo do  código:
  "--recover":{message:`insira o nome do arquivo após o comando`,type:"secret"},
 
   
-  "perdão":{message:`[O QUE VOCÊ ESTÁ PROCURANDO AFINAL?]
+  "Insanity":{message:`[ACESSANDO CONTEÚDO DA UNIDADE 1]
 
-Eu... eu juro que não foi culpa minha, eu sei que não foi... então PORQUE ESSA CULPA ME PERSEGUE!?!?
-Eu só queria viver em paz.. Me perdoe charlie.. Por favor`,type:"secret"},
+
+  Descobrimos um novo tipo de "parasita" que pode "salvar" a humanidade, esse parasita tem a capacidade de remover as limitações
+  do corpo humano. Sua origem é desconhecida, mas sabemos que encotramos uma fonte dela em uma especie de cano, que futuramente
+foi construida a unidade 1.`,type:"secret"},
   "charlie":{message:`Charlie Henderson, um dos principais fundadores do experimentos das anomalias governamental.
 INFORMAÇÕES:
 Nivel admnistrativo: Grau superior 1
